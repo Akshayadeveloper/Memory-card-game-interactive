@@ -18,7 +18,7 @@ body {
             background-color: #f8f9fa;}
   .card {
           overflow: hidden;
-            background: url('https://source.unsplash.com/1920x1080/?galaxy') no-repeat fixed;
+            background: url('https://cdn.dribbble.com/users/14038/screenshots/6361899/galaxy_dribbble.gif');
             background-size: cover;
             animation: sparkleBackground 10s infinite linear;
             width: 80px;
